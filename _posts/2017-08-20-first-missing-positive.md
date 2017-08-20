@@ -2,9 +2,6 @@
 layout: post
 title: first missing positive
 ---
-{{ page.title}}
-===============
-<p class="meta">{{ page.date }}</p>
 一个leetcode题目，想出了一个比较有意思的解答，在这里整理一下思路。
 题目是这样的，输入是一个整型数组，要求找出数组中第一个缺失的正整数。并要求空间复杂度为O(1),时间复杂度为O(n)。
 想了一段时间没有思路，然后看了一下解答，得分最高的答案是这样的：
